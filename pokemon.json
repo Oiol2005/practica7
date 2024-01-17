@@ -1,0 +1,59 @@
+{
+    "Pokemons": [
+        {
+            "id": "1",
+            "nom": "bulbasur",
+            "tipus": "planta",
+            "pes_kg": 6.9,
+            "altura_metros": 0.7,
+            "estadisticas": {
+                "fortraleza": 3,
+                "velocitat": 3,
+                "precisio": 4,
+                "resistencia": 4
+            },
+            "moviments": [
+                {
+                    "nom": "Superhoja",
+                    "descripcio":"Tira una hoja muy grande",
+                    "Potencia": 90,
+                    "Contacte": true
+                },
+                {
+                    "nom": "Tormenta hoja",
+                    "descripcio":"Tira una tormenta de hojas",
+                    "Potencia": 120,
+                    "Contacte": false
+                }
+            ]
+
+        },
+        {
+           "id": 25,
+           "nom": "Pikachu",
+           "tiupus": "Electric",
+           "pes_kg": 6,
+            "altura_metros": 0.4,
+            "estadisticas": {
+                "fortraleza": 4,
+                "velocitat": 4,
+                "precisio": 4,
+                "resistencia": 4
+            },
+            "moviments": [
+                {
+                    "nom": "rayo",
+                    "descripcio":"Tira un rayo muy grande",
+                    "Potencia": 100,
+                    "Contacte": true
+                },
+                {
+                    "nom": "Ataque rapido",
+                    "descripcio":"Ataca hiper rapid",
+                    "Potencia": 70,
+                    "Contacte": true
+                }
+            ]
+        }
+    ]
+}
